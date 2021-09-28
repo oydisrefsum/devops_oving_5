@@ -9,6 +9,6 @@ class DevOpsController {
 
     @GetMapping(path = ["/"])
     fun hello(): String? {
-        return "Hello World<3"
+        return "Hello World<3 fra Øydis<3"
     }
 }
